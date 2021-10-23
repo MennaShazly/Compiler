@@ -1,6 +1,6 @@
-* .csv
-* .zip
-* .db
+*.csv
+*.zip
+*.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
