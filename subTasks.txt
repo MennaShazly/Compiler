@@ -1,0 +1,10 @@
+
+# First Milestone:
+
+@Phase 1:
+	https://docs.google.com/document/d/17Ijd0856YtcLDztzhgT-636ye8d-gD4kVY-YjBkP_cs/edit?usp=sharing
+
+@Phase 2:
+	1. Create sql server lab
+	2. Create a function that transforms sql server DB to sqlLite with a given connevtion string
+	3. Make some queries on sqlLite (use the test cases from the project documentation)
